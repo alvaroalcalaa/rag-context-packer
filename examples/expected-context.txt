@@ -1,0 +1,5 @@
+[save] bruma/manual.md (líneas 30-31)
+Las partidas se guardan al descansar en el refugio.
+
+[route] bruma/routes.md (líneas 8-9)
+El camino del río conduce del faro al bosque sin atravesar el mercado.
