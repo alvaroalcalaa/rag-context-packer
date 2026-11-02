@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    {"id":"key","source":"bruma/manual.md","line_start":12,"line_end":13,"score":0.95,"text":"La llave azul abre la puerta del bosque. Se guarda al terminar la misión del farero."},
+    {"id":"key-copy","source":"bruma/faq.md","line_start":3,"line_end":4,"score":0.7,"text":"LA LLAVE AZUL abre la puerta del bosque. Se guarda al terminar la misión del farero."},
+    {"id":"lantern","source":"bruma/manual.md","line_start":20,"line_end":21,"score":0.85,"text":"La linterna permite leer las marcas de las ruinas durante la noche."},
+    {"id":"save","source":"bruma/manual.md","line_start":30,"line_end":31,"score":0.8,"text":"Las partidas se guardan al descansar en el refugio."},
+    {"id":"route","source":"bruma/routes.md","line_start":8,"line_end":9,"score":0.9,"text":"El camino del río conduce del faro al bosque sin atravesar el mercado."},
+    {"id":"unranked","source":"bruma/music.md","line_start":2,"line_end":2,"score":0,"text":"El tema del puerto usa tres voces de sintetizador."}
+  ]
+}
